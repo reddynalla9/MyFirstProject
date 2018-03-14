@@ -2,23 +2,24 @@
 .arrow {
     font-size:68px;
     color:red;
+    border: 1px solid #4CAF50;
 }
 
 #uparrow {
     margin-left: 75px;
-    border: 1px solid #4CAF50;
+/*     border: 1px solid #4CAF50; */
 }
 #rightarrow {
     margin-left: 60px;
-    border: 1px solid #4CAF50;
+/*     border: 1px solid #4CAF50; */
 }
 #leftarrow {
     margin-left: 5px;
-    border: 1px solid #4CAF50;
+/*     border: 1px solid #4CAF50; */
 }
 #downarrow {
     margin-left: 75px;
-    border: 1px solid #4CAF50;
+/*     border: 1px solid #4CAF50; */
 }
 
 
